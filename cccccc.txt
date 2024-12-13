@@ -1,0 +1,5 @@
+/*
+g++ B5c.cpp -o B5c -lgraph
+./B5c
+
+*/
